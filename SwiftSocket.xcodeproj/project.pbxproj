@@ -55,7 +55,7 @@
 		375C483B1DDC4C56008C701D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		377DAA691DCDE40200009697 /* SwiftSocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftSocket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		377DAA761DCDE45D00009697 /* SwiftSocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftSocket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C75935F022A17D6900567195 /* SwiftSocket.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = SwiftSocket.podspec; sourceTree = "<group>"; };
+		C75935F022A17D6900567195 /* WCSwiftSocket.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = WCSwiftSocket.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,7 +135,7 @@
 		5518C82619A3290F0049DC22 = {
 			isa = PBXGroup;
 			children = (
-				C75935F022A17D6900567195 /* SwiftSocket.podspec */,
+				C75935F022A17D6900567195 /* WCSwiftSocket.podspec */,
 				5518C83119A329100049DC22 /* Source */,
 				375C482E1DDC4C56008C701D /* iOS Example */,
 				5518C83019A329100049DC22 /* Products */,
