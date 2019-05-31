@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'WCSwiftSocket'
-  s.version      = '2.0.3'
+  s.version      = '4.0.0'
   s.summary      = 'A cool framework to work with TCP and UDP sockets'
 
   s.description  = <<-DESC
